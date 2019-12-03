@@ -1,0 +1,36 @@
+h1
+{
+    text-align: center;
+}
+
+h3
+{
+    text-align: center;
+}
+
+
+footer
+{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.header-logo
+{
+    width: 200px;
+}
+
+#content
+{
+    padding-top: 100px;
+}
+
+.mainImage
+{
+    margin-bottom: 70px;
+}
+
+#navInfo
+{
+    width: 150px;
+}
