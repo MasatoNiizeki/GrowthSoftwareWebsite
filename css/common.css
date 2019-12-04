@@ -1,11 +1,9 @@
 h1
 {
-    text-align: center;
 }
 
 h3
 {
-    text-align: center;
 }
 
 
@@ -13,6 +11,10 @@ footer
 {
     text-align: center;
     margin-top: 50px;
+}
+
+p{
+    margin-bottom: 50px;
 }
 
 .header-logo
@@ -33,4 +35,19 @@ footer
 #navInfo
 {
     width: 150px;
+}
+
+.indexText1
+{
+    text-align: center;
+}
+
+.indexText2
+{
+    text-align: center;
+}
+
+.margin50px
+{
+    margin-top: 50px;
 }
