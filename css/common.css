@@ -17,6 +17,10 @@ p{
     margin-bottom: 50px;
 }
 
+body{
+    margin: 0;
+}
+
 .header-logo
 {
     width: 200px;
@@ -50,4 +54,16 @@ p{
 .margin50px
 {
     margin-top: 50px;
+}
+
+.contactUsForm
+{
+    box-sizing: border-box;
+    width: 500px;
+}
+
+.contactUsTextArea
+{
+    box-sizing: border-box;
+    width: 500px;
 }

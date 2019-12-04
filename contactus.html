@@ -49,19 +49,33 @@
     </nav>
 </header>
 <div id="content" class="container-fluid">
+    <div class="container">
+        <form name="contact" method="POST" netlify>
+            <div class="margin50px"></div>
 
-    <div class="row">
-        <div class="col-12">
-            <img src="image/titleImage.png" class="img-fluid">
-        </div>
-
-        <div class="col-12">
-            <h1>あなただけのペットがいる生活。</h1>
-        </div>
-        <div class="col-12">
-        <h3>グロースソフトウェアがお手伝いいたします。</h3>
+            <div class="row">
+                <div class="col-12">
+                    <h1>お問い合わせ</h1>
+                    <p>お問い合わせはこちらよりよろしくお願いいたします。</p>
+                </div>
+                <div class="col-12">
+                    <label>名前<br> <input class="contactUsForm" type="text" name="name" /></label>
+                </div>
+                <div class="col-12">
+                    <label>メールアドレス<br> <input class="contactUsForm" type="email" name="email" /></label>
+                </div>
+                <div class="col-12">
+                    <label>メッセージ<br> <textarea class="contactUsTextArea" name="message"></textarea></label>
+                </div>
+                <div class="col-12">
+                        <button type="submit">送信</button>
+                    </div>
+                </div>
+                <div class="margin50px"></div>
+                <p>グロースソフトウェア<br>〒220-0012<br>神奈川県横浜市西区みなとみらい3-7-1 Wework内</p>
+        </form>
     </div>
-</div>
+ </div>
 <!-- FOOTER -->
 <footer>
     <div class="row">
