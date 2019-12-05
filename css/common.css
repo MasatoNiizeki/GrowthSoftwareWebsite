@@ -67,3 +67,23 @@ body{
     box-sizing: border-box;
     width: 500px;
 }
+
+.lifeWithFerretImg
+{
+    width: 600px;
+}
+
+.center
+{
+    text-align: center;
+}
+
+.right
+{
+    text-align: right;
+}
+
+.appstoreLink
+{
+    transform: translateY(10%);
+}
